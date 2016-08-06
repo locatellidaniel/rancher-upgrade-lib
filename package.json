@@ -1,0 +1,16 @@
+{
+  "name": "rancher-upgrade-lib",
+  "version": "0.0.1",
+  "description": "Rancher API helper lib, to be used inside jenkins for deploying services.",
+  "main": "main.js",
+  "dependencies": {
+    "request": "^2.73.0",
+    "request-promise-native": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Locatelli",
+  "license": "Apache2.0"
+}
